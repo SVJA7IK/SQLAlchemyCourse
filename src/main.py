@@ -1,7 +1,3 @@
-"""
-Курс по SQLAlchemy
-Конспект по плейлисту - https://www.youtube.com/playlist?list=PLeLN0qH0-mCXARD_K-USF2wHctxzEVp40
-"""
 import asyncio
 import os
 import sys
